@@ -19,6 +19,10 @@
 
 [TO DO]
 
-## Updating thr website
+## Updating the website
+
+[TO DO]
+
+## Architecture overview
 
 [TO DO]
