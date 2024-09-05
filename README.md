@@ -1,5 +1,6 @@
 # MATS Playbook
 
+## Project glossary
 [TO DO]
 
 ## Finding project admin materials
