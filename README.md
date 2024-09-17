@@ -7,7 +7,7 @@
 
 [TO DO]
 
-## Aquiring archival materials
+## Acquiring archival materials
 
 [TO DO]
 
