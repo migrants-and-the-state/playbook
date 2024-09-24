@@ -15,7 +15,7 @@
 - a unique identifier for an individual person; all immegration documents related to that individual person *should* be tagged with their `a-number`  
 
 ### `document`
-- a group of one or more `pages` within an `a-file-order` that make up a logical document (e.g., recto verso of a form, 3 pages of legal proceedings, etc.)
+- a group of one or more `pages` within an `a-file-order` that make up a logical document (e.g., recto and verso of an index card, 3 pages of legal letter, etc.)
 - NOTE: this type of data is not currently in scope to parse.  
 
 ### `page`
