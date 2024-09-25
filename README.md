@@ -1,4 +1,4 @@
-# MATS Playbook
+# M/S Playbook
 
 ## Project glossary
 
