@@ -5,7 +5,7 @@
 - [Project glossary](docs/glossary.md)
 - [Accessing the Research Workspace storage mount](docs/research-workspace.md)
 - Finding project admin materials [TO DO]
-- [Aquisition + ingest workflow for a-file order groups](docs/ingest-workflow.md)
+- [Acquisition + ingest workflow for a-file order groups](docs/ingest-workflow.md)
 - Writing project code [TO DO]
 - Documenting code repositories for resusability [TO DO]
 - Updating the website [TO DO]
