@@ -1,4 +1,4 @@
-# Aquisition + ingest workflow for a-file order groups
+# Acquisition + ingest workflow for a-file order groups
 
 ## Prerequisites
 - Write access to the `Migrants and the State` Shared Drive
